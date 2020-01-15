@@ -16,8 +16,8 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Thailand","country":"Thailand","image":"Thailand","ip":"124.121.4.196","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Thailand","country":"thailand","image":"thailand","ip":"124.121.4.196","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Japan","country":"Japan","image":"Japan","ip":"114.69.71.20","active":"true","signal":"a"},
-    {"id":2, "file":2, "city":"Bankok","country":"Thailand","image":"Thailand","ip":"27.145.252.38","active":"true","signal":"a"}
+    {"id":2, "file":2, "city":"Bankok","country":"thailand","image":"thailand","ip":"27.145.252.38","active":"true","signal":"a"}
   ]
 }
