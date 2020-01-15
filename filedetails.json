@@ -96,10 +96,10 @@
     M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
     -----END RSA PRIVATE KEY-----
     </key>"},
-    {"id":2,"file":"
-     dev tun
-    proto tcp
-    remote 27.145.252.38 1561
+    {"id":1,"file":"
+    dev tun
+    proto udp
+    remote 219.100.37.100 443
     cipher AES-128-CBC
     auth SHA1
     resolv-retry infinite
@@ -143,6 +143,7 @@
     0MC2Hb46TpSi125sC8KKfPog88Tk5c0NqMuRkrF8hey1FGlmDoLnzc7ILaZRfyHB
     NVOFBkpdn627G190
     -----END CERTIFICATE-----
+
     </ca>
     <cert>
     -----BEGIN CERTIFICATE-----
