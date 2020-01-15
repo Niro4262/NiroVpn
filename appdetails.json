@@ -17,7 +17,6 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"singapore","country":"singapore","image":"singapore","ip":"13.250.6.2","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"135.180.79.35","active":"true","signal":"c"},
-    {"id":2, "file":2, "city":"New York","country":"United States","image":"unitedstates","ip":"173.230.106.233","active":"true","signal":"c"}
+    {"id":1, "file":1, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"24.24.211.90","active":"true","signal":"a"}
   ]
 }
