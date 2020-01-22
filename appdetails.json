@@ -1,9 +1,9 @@
 {
-  "ads":"false",
+  "ads":"true",
   "update":[{
     "version":"2.8.1600",
-    "title":"this niro vpn app",
-    "description":"this's niro vpn app",
+    "title":"Niro VPN App",
+    "description":"Niro VPN App",
     "size":"https://git.io/JeY69"
   }],
   "blocked":[
