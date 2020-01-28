@@ -17,6 +17,6 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"202.7.121.137","active":"true","signal":"c"}
+    {"id":1, "file":1, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"","active":"true","signal":"c"}
   ]
 }
