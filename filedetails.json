@@ -127,7 +127,7 @@
              1f:49:a3:3e:5e:5c:8f:ac:0c:37:b3:d2:6b:8c:85:43:f2:e5:
              4e:5d:f6:3c:a2:5e:9c:b1:35:71:58:e8:54:73:d1:1d:4b:dc:
              41:d7:57:fb
-        -----BEGIN CERTIFICATE-----
+    -----BEGIN CERTIFICATE-----
     MIICxjCCAa4CAQAwDQYJKoZIhvcNAQEFBQAwKTEaMBgGA1UEAxMRVlBOR2F0ZUNs
     aWVudENlcnQxCzAJBgNVBAYTAkpQMB4XDTEzMDIxMTAzNDk0OVoXDTM3MDExOTAz
     MTQwN1owKTEaMBgGA1UEAxMRVlBOR2F0ZUNsaWVudENlcnQxCzAJBgNVBAYTAkpQ
@@ -146,7 +146,7 @@
     -----END CERTIFICATE-----
     </cert>
     <key>
-   -----BEGIN RSA PRIVATE KEY-----
+   -----BEGIN PRIVATE KEY-----
     MIIEpAIBAAKCAQEA5h2lgQQYUjwoKYJbzVZA5VcIGd5otPc/qZRMt0KItCFA0s9R
     wReNVa9fDRFLRBhcITOlv3FBcW3E8h1Us7RD4W8GmJe8zapJnLsD39OSMRCzZJnc
     zW4OCH1PZRZWKqDtjlNca9AF8a65jTmlDxCQCjntLIWk5OLLVkFt9/tScc1GDtci
@@ -172,7 +172,7 @@
     va8q4QKBgQCEhLVeUfdwKvkZ94g/GFz731Z2hrdVhgMZaU/u6t0V95+YezPNCQZB
     wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
     M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
-    -----END RSA PRIVATE KEY-----
+    -----END PRIVATE KEY-----
     </key>
     <tls-auth>
     #
