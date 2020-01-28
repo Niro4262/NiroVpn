@@ -16,6 +16,9 @@
     auth SHA1
     resolv-retry infinite
     nobind
+    ca [inline]
+    cert [inline]
+    key [inline] 
     persist-key
     persist-tun
     verb 3
