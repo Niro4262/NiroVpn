@@ -206,13 +206,9 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
 </key>
 "},
-{"id":3,"file":"###############################
-# FreeOpenVPN.Org config file #
-# https://www.freeopenvpn.org #
-###############################
-dev tun
-proto tcp
-remote 161.202.144.236 443
+{"id":3,"file":"dev tun
+proto udp
+remote 84.236.104.129 1195
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
