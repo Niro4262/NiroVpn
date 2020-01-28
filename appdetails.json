@@ -7,7 +7,7 @@
     "size":"https://git.io/JeY69"
   }],
   "blocked":[
-    {"id":6, "app":"com.get.client"}
+    {"id":1, "app":"com.torrent.client"}
   ],
   "free":[
     {"id":0, "file":0, "city":"Hungary","country":"Hungary","image":"hungary","ip":"84.236.104.129","active":"true","signal":"a"},
