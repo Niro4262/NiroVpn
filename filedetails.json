@@ -97,8 +97,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 "},
 {"id":1,"file":"dev tun
-proto udp
-remote 59.166.32.108 1837
+proto tcp
+remote 60.42.7.212 1243
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
