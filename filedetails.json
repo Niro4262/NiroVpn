@@ -96,7 +96,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
 </key>
 "},
-   {"id":2,"file":"dev tun
+   {"id":1,"file":"dev tun
 proto udp
 remote 211.1.200.24 1626
 cipher AES-128-CBC
@@ -192,7 +192,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
 </key>
 "},
-{"id":1,"file":"dev tun
+{"id":2,"file":"dev tun
 proto udp
 remote 184.22.241.113 1659
 cipher AES-128-CBC
