@@ -194,7 +194,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 "},
 {"id":2,"file":"dev tun
 proto udp
-remote 113.23.33.214 1545
+remote 42.117.15.220 1411
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
